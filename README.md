@@ -95,7 +95,9 @@ python main.py
 - **/secret**  
   My experience in the field of crypts, I just tested the codes of people from Tiktok, YouTube, etc. I also thought of interesting functions on my own.
 
+## + vibe✌︎︎✌︎︎
 
+![image](https://github.com/user-attachments/assets/8ce7088b-8ef5-42ae-adb8-57ef9c486e2c)
 
 
 
