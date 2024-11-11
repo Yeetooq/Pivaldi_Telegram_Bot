@@ -97,7 +97,7 @@ python main.py
 
 ## Database 🛢
 
-For the project, I used the SQLite database, as it is best suited for a small amount of data. The database is created automatically when the code is first run. The most convenient way to manage a database is to use SQLiteStudio.
+For the project, I used the SQLite 3 database, as it is best suited for a small amount of data. The database is created automatically when the code is first run. The most convenient way to manage a database is to use SQLiteStudio.
 
 ![image](https://github.com/user-attachments/assets/1e5dabd9-9ad2-4f2b-8ebf-6aaaaf55dd96)
 
