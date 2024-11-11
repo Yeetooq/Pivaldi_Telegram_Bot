@@ -59,40 +59,51 @@ python main.py
 
 **Сommands:**
 
-- **/start**  
+- ```/start``` 
+  
   Launches the bot, writes the user to the database, and also issues a button with a transition to booking a place in the restaurant.
 
-- **/registration**  
+- ```/registration``` 
+   
   Registers a user in the bot, can be used to access functions, but for me it's just an additional entry in the database and that's it.
 
-- **/catalog**  
+- ```/catalog``` 
+  
   Sends the menu of the restaurant.
 
-- **/pay**  
+- ```/pay``` 
   Allows the user to pay for their order (currently a test one).
 
-- **/weather**  
+- ```/weather```  
+  
   Provides information about the current weather in the places where the restaurant is open, so that the visitor can find out about precipitation in advance and exclude unforeseen circumstances.
 
-- **/help**  
+- ```/help```  
+  
   Communication with the developer on technical issues related to the work of the bot.
 
-- **/help_pro**  
+- ```/help_pro```  
+  
   Communication with the restaurant on service issues related to the restaurant or service.
 
-- **/website**  
+- ```/website```  
+  
   Redirects the user to the official Pivaldi website.
 
-- **/game**  
+- ```/game``` 
+  
   Starts a game where the user has to guess the number in one attempt.
 
-- **/statistics**  
+- ```/statistics```  
+  
   I have provided a Win Rate system in the bot to make it more interesting to play and see your luck. Shows the statistics of the user's games in the game "Guess the number from 1 time".
 
-- **/anekdot**  
+- ```/anekdot```  
+  
   Sends a random joke to the user.
 
-- **/secret**  
+- ```/secret```
+  
   My experience in the field of crypts, I just tested the codes of people from Tiktok, YouTube, etc. I also thought of interesting functions on my own.
 
 ## Database 🛢
