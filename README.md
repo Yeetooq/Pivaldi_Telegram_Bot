@@ -72,6 +72,7 @@ python main.py
   Sends the menu of the restaurant.
 
 - ```/pay``` 
+  
   Allows the user to pay for their order (currently a test one).
 
 - ```/weather```  
