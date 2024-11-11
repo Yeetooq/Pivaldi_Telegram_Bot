@@ -97,7 +97,8 @@ python main.py
 
 ## + vibe✌︎︎✌︎︎
 
-![image](https://github.com/user-attachments/assets/8ce7088b-8ef5-42ae-adb8-57ef9c486e2c)
+![image](https://github.com/user-attachments/assets/310d1ec0-beab-4aa8-acf0-2f1fddad8ab0)
+
 
 
 
