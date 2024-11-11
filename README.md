@@ -6,7 +6,7 @@
 
 ## A brief background 📝
 
-Initially, the project was conceived as a chat-bot for the [Pivaldi restaurant](https://pivaldi.ru/), since my classmates and I really like to go there after couples and in our free time 🍻. Since the restaurant is actively growing and developing 📈, and the existing bot of the restaurant is frankly bad 😅, I thought I would make a good bot and contact them for further cooperation. 
+Initially, the project was conceived as a chat-bot for the [Pivaldi restaurant](https://pivaldi.ru/), since my groupmates and I really like to go there after couples and in our free time 🍻. Since the restaurant is actively growing and developing 📈, and the existing bot of the restaurant is frankly bad 😅, I thought I would make a good bot and contact them for further cooperation. 
 
 The bot was made for a couple of months ⏳,and along the way I tested every little thing for an element of vulnerability. Then I tried many times to contact the managers of the restaurant , with their other departments 📞, but all attempts were in vain 😕. 
 
