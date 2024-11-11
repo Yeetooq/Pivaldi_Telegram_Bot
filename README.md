@@ -95,6 +95,13 @@ python main.py
 - **/secret**  
   My experience in the field of crypts, I just tested the codes of people from Tiktok, YouTube, etc. I also thought of interesting functions on my own.
 
+## Database 🛢
+
+For the project, I used the SQLite database, as it is best suited for a small amount of data. The database is created automatically when the code is first run. The most convenient way to manage a database is to use SQLiteStudio.
+
+![image](https://github.com/user-attachments/assets/1e5dabd9-9ad2-4f2b-8ebf-6aaaaf55dd96)
+
+
 ## + vibe✌︎︎✌︎︎
 
 ![image](https://github.com/user-attachments/assets/310d1ec0-beab-4aa8-acf0-2f1fddad8ab0)
