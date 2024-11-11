@@ -56,7 +56,7 @@ delete_reg = InlineKeyboardMarkup(
 def showChannels():
     keyboard = InlineKeyboardMarkup(inline_keyboard=[], row_width=1)
     for channel in CHANNELS:
-        btn = InlineKeyboardButton(text=channel[0], url=channel[1])
+        btn = InlineKeyboardButton(text=channel[0], url=channel[2])
         keyboard.inline_keyboard.append([btn])  # Append btn as a list
     btnDoneSub = InlineKeyboardButton(text="я подписался ✅", callback_data="subchanneldone")
     keyboard.inline_keyboard.append([btnDoneSub])  # Append btnDoneSub as a list
